@@ -8,8 +8,8 @@ import sys
 import requests
 
 def translate_text_ko_to_en(text): # 번역 API 네이버 파파고 
-    Client_ID='En09kbQorCTHYr0_07IO'
-    Client_Secret='UVs9ctsJOX'
+    Client_ID='****'
+    Client_Secret='****'
     Source_Lang='ko' #ko
     Target_Lang='en' #en 
 
